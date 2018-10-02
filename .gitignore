@@ -4,3 +4,5 @@
 *.pparam
 *.rparam
 *Rproj*
+*.RData
+*.Rhis
