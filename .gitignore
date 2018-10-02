@@ -1,0 +1,6 @@
+*.csv
+*.txt
+*.rsml
+*.pparam
+*.rparam
+*Rproj*
